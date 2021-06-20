@@ -1,6 +1,6 @@
 package fnery;
 
-public class Main {
+public class D_EncapsulacionAtributosPrivados {
 
     public static void main(String[] args) {
         /*CuentaBancaria cuentaBancariaPersonaA = new CuentaBancaria("98765432109876543");
